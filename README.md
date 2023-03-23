@@ -14,5 +14,5 @@ React.js, React Native (Aprendiendo), Node.js, Javascript, PHP, C#, Bootstrap, M
 
 ## 🔗 Links
 [![PORTFOLIO](https://img.shields.io/badge/mí_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brianmunoz.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/brianmunio)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianmunio)
 
