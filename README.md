@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**brianmunioz/brianmunioz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola! Soy Brian Muñoz de Bahía Blanca, Buenos Aires, Argentina 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Acerca de mí
+Soy desarrollador de software y estudio la carrera de técnico superior en computación orientación administrativa en la escuela superior de comercio (UNS) de Bahía Blanca.
+
+
+## 🛠 Skills
+React.js, React Native (Aprendiendo), Node.js, Javascript, PHP, C#, Bootstrap, MySql, MongoDB, CSS y HTML.
+
+
+
+## 🔗 Links
+[![PORTFOLIO](https://img.shields.io/badge/mí_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://brianmunoz.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/brianmunio)
+
