@@ -4,7 +4,7 @@
 
 
 ## 🚀 Acerca de mí
-Soy desarrollador de software y estudio la carrera de técnico superior en computación orientación administrativa en la escuela superior de comercio (UNS) de Bahía Blanca.
+Soy desarrollador de software y estudio la carrera de técnico superior en programación en Teclab instituto superior.
 
 
 ## 🛠 Skills
