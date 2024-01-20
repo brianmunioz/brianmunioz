@@ -3,7 +3,7 @@
 
 
 ## 🛠 Skills
-ASP.NET, Node.js, Godot, java, Javascript, PHP, C#, React.js, React Native, Bootstrap, MySql, MongoDB, CSS y HTML.
+ASP.NET, Node.js, Javascript, PHP, C#, React.js, React Native, Bootstrap, MySql, MongoDB, CSS y HTML.
 
 
 
