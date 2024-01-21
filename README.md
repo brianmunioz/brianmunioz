@@ -1,5 +1,5 @@
 
-# Hi! I´m Brian Muñoz from Bahía Blanca, Buenos Aires, Argentina 👋
+# Hola! Soy Brian Muñoz de Bahía Blanca, Buenos Aires, Argentina 👋
 
 
 ## 🛠 Skills
