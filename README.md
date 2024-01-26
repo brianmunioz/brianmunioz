@@ -9,5 +9,5 @@ ASP.NET, Node.js, Javascript, PHP, C#, React.js, React Native, Bootstrap, MySql,
 
 ## 🔗 Links
 [![PORTFOLIO](https://img.shields.io/badge/mí_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://munozdev.com.ar/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brianmunio)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munozbrian)
 
