@@ -3,7 +3,7 @@
 
 
 ## 🛠 Skills
-ASP.NET Core, Node.js, Javascript, C#, React.js, React Native, Bootstrap, MySql, MongoDB, CSS y HTML.
+ Node.js, Javascript, React.js, React Native, Bootstrap, MySql, MongoDB, CSS y HTML.
 
 
 
